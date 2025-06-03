@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard Edukacyjny - XAXA-SOLUTIONS</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="dashboard-layout">
+        <aside class="sidebar">
+            <div class="sidebar-header">
+                <h2 class="brand-title">XAXA-SOLUTIONS</h2>
+                <p class="brand-year">2025</p>
+                <div class="exam-badge">Przygotowanie do INF.02</div>
+            </div>
+            <nav class="sidebar-nav">
+                <ul>
+                    <li><a href="#" class="nav-item active" data-target="dashboard-section"><i class="fas fa-tachometer-alt"></i> Dashboard</a></li>
+                    <li><a href="#" class="nav-item" data-target="egzaminy-section"><i class="fas fa-file-alt"></i> Egzaminy</a></li>
+                    <li><a href="#" class="nav-item" data-target="nauka-section"><i class="fas fa-book-open"></i> Nauka</a></li>
+                    <li><a href="#" class="nav-item" data-target="autor-section"><i class="fas fa-user-circle"></i> Autor</a></li>
+                </ul>
+            </nav>
+            <div class="sidebar-footer">
+                <p id="current-date">Ładowanie daty...</p>
+                <p class="developer-credit">by mkdevelopment1312</p>
+            </div>
+        </aside>
+        <main class="main-content">
+            <header class="main-header">
+                <div class="header-content">
+                    <h1>Dashboard</h1>
+                    <div id="total-questions-db-info">Pytania w bazie: Ładowanie...</div>
+                </div>
+            </header>
+            <div class="content-area">
+                <section id="dashboard-section" class="content-panel active">
+                    <div class="stats-grid">
+                        <div class="stat-card questions-answered-card">
+                            <h4>Rozwiązane Pytania</h4>
+                            <p class="subtitle">Łączna liczba pytań, na które odpowiedziałeś</p>
+                            <div id="questions-answered-display" class="answered-count">0</div>
+                        </div>
+
+                        <div class="stat-card progress-overview-card">
+                            <h4>Twoje Postępy</h4>
+                            <p class="subtitle">Skuteczność w rozwiązywaniu pytań</p>
+
+                            <div class="progress-item">
+                                <label for="progress-overall">Ogólna skuteczność</label>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" id="progress-overall" style="width: 0%;">0%</div>
+                                </div>
+                            </div>
+
+                            <div class="progress-item">
+                                <label for="progress-last-exam">Ostatni egzamin</label>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" id="progress-last-exam" style="width: 0%;">0%</div>
+                                </div>
+                            </div>
+
+                            <div class="progress-item">
+                                <label for="progress-best">Najlepszy wynik</label>
+                                <div class="progress-bar-container">
+                                    <div class="progress-bar" id="progress-best" style="width: 0%;">0%</div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="stat-card exam-stats-card">
+                            <h4>Statystyki Egzaminów</h4>
+                            <div class="exam-stats-summary">
+                                <div class="exam-stat-item">
+                                    <div class="stat-label">Ukończone egzaminy:</div>
+                                    <div class="stat-value" id="dashboard-completed-exams">0</div>
+                                </div>
+                                <div class="exam-stat-item">
+                                    <div class="stat-label">Średni wynik zdawania:</div>
+                                    <div class="stat-value" id="dashboard-average-score">0%</div>
+                                </div>
+                                <div class="exam-stat-item">
+                                    <div class="stat-label">Pytań w bazie danych:</div>
+                                    <div class="stat-value" id="dashboard-total-questions">0</div>
+                                </div>
+                            </div>
+                            <button id="start-new-exam-btn" class="btn-primary">Rozpocznij nowy egzamin</button>
+                            <button id="fix-question-numbering-btn" class="btn-secondary">Napraw numerację pytań</button>
+                            <button id="check-duplicate-questions-btn" class="btn-secondary">Sprawdź duplikaty pytań</button>
+                        </div>
+
+                        <div class="stat-card activity-card">
+                            <h4>Aktywność</h4>
+                            <p class="subtitle">Liczba rozwiązanych pytań w ostatnich 7 dniach</p>
+
+                            <div class="chart-container">
+                                <div class="bar-chart">
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                    <div class="bar" style="height: 0%"><span>0</span></div>
+                                </div>
+                                <div class="chart-labels">
+                                    <span>Pon</span>
+                                    <span>Wt</span>
+                                    <span>Śr</span>
+                                    <span>Czw</span>
+                                    <span>Pt</span>
+                                    <span>Sob</span>
+                                    <span>Nd</span>
+                                </div>
+                            </div>
+
+                            <p class="total-stat">Łącznie: <strong id="total-weekly-questions">0</strong> pytań</p>
+
+                            <div class="activity-metrics">
+                                <div class="activity-metric">
+                                    <i class="fas fa-calendar-check"></i>
+                                    <div class="metric-content">
+                                        <span class="metric-value" id="activity-streak">0</span>
+                                        <span class="metric-label">Dni pod rząd</span>
+                                    </div>
+                                </div>
+                                <div class="activity-metric">
+                                    <i class="fas fa-trophy"></i>
+                                    <div class="metric-content">
+                                        <span class="metric-value" id="activity-best-day">0</span>
+                                        <span class="metric-label">Najlepszy dzień</span>
+                                    </div>
+                                </div>
+                                <div class="activity-metric">
+                                    <i class="fas fa-clock"></i>
+                                    <div class="metric-content">
+                                        <span class="metric-value" id="activity-avg-time">0</span>
+                                        <span class="metric-label">Śr. czas (min)</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="egzaminy-section" class="content-panel">
+
+                    <div id="exam-setup" class="exam-setup-panel">
+                        <div class="exam-config-card">
+                            <h3>Konfiguracja Egzaminu</h3>
+                            <p>Wybierz parametry egzaminu, który chcesz rozwiązać:</p>
+
+                            <div class="form-group">
+                                <label for="question-count">Liczba pytań:</label>
+                                <select id="question-count" class="form-control">
+                                    <option value="10">10 pytań</option>
+                                    <option value="20">20 pytań</option>
+                                    <option value="30">30 pytań</option>
+                                    <option value="40" selected>40 pytań</option>
+                                    <option value="50">50 pytań</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="question-category">Kategoria pytań:</label>
+                                <select id="question-category" class="form-control">
+                                    <option value="all" selected>Wszystkie pytania</option>
+                                    <option value="networking">Sieci komputerowe</option>
+                                    <option value="hardware">Sprzęt komputerowy</option>
+                                    <option value="software">Oprogramowanie</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="time-limit">Limit czasu:</label>
+                                <select id="time-limit" class="form-control">
+                                    <option value="0">Bez limitu</option>
+                                    <option value="30">30 minut</option>
+                                    <option value="60" selected>60 minut</option>
+                                    <option value="90">90 minut</option>
+                                </select>
+                            </div>
+
+                            <button id="start-exam-btn" class="btn-primary">Rozpocznij Egzamin</button>
+                        </div>
+
+                        <div class="exam-stats-card">
+                            <h3>Statystyki Egzaminów</h3>
+                            <div class="exam-stats-item">
+                                <span class="stat-label">Ukończone egzaminy:</span>
+                                <span class="stat-value" id="completed-exams">0</span>
+                            </div>
+                            <div class="exam-stats-item">
+                                <span class="stat-label">Średni wynik zdawania:</span>
+                                <span class="stat-value" id="average-score">0%</span>
+                            </div>
+                            <div class="exam-stats-item">
+                                <span class="stat-label">Pytań w bazie danych:</span>
+                                <span class="stat-value" id="total-questions-count">0</span>
+                            </div>
+                            <div class="exam-stats-item">
+                                <span class="stat-label">Najlepszy wynik:</span>
+                                <span class="stat-value" id="best-score">0%</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="exam-interface" class="exam-interface-panel" style="display: none;">
+                        <div class="exam-header">
+                            <div class="exam-progress">
+                                <span id="current-question">Pytanie 1</span> z <span id="total-questions">40</span>
+                            </div>
+                            <div class="exam-timer" id="exam-timer">
+                                Pozostały czas: <span id="time-remaining">60:00</span>
+                            </div>
+                        </div>
+
+                        <div class="question-container">
+                            <div class="question-text" id="question-text">
+                                <!-- Question text will be inserted here -->
+                            </div>
+
+                            <div class="question-media" id="question-media">
+                                <!-- Question image/video will be inserted here if available -->
+                            </div>
+
+                            <div class="answer-options" id="answer-options">
+                                <!-- Answer options will be inserted here -->
+                            </div>
+
+                            <div class="question-actions">
+                                <button id="show-answer-btn" class="btn-secondary">Pokaż odpowiedź</button>
+                            </div>
+                        </div>
+
+                        <div class="exam-navigation">
+                            <div class="exam-nav-buttons">
+                                <button id="prev-question-btn" class="btn-secondary">Poprzednie pytanie</button>
+                                <button id="next-question-btn" class="btn-primary">Następne pytanie</button>
+                            </div>
+                            <button id="finish-exam-btn" class="btn-danger">Zakończ egzamin</button>
+                        </div>
+                    </div>
+
+                    <div id="exam-results" class="exam-results-panel" style="display: none;">
+                        <div class="results-header">
+                            <h3>Gratulacje! Ukończyłeś egzamin</h3>
+                            <div class="results-score">
+                                <div class="score-circle">
+                                    <span id="correct-answers">0</span>/<span id="total-answers">0</span>
+                                </div>
+                                <div class="score-percentage" id="score-percentage">0%</div>
+                            </div>
+                        </div>
+
+                        <div class="results-details">
+                            <div class="results-item">
+                                <span class="results-label">Czas egzaminu:</span>
+                                <span class="results-value" id="exam-time">00:00</span>
+                            </div>
+                            <div class="results-item">
+                                <span class="results-label">Poprawne odpowiedzi:</span>
+                                <span class="results-value" id="correct-count">0</span>
+                            </div>
+                            <div class="results-item">
+                                <span class="results-label">Błędne odpowiedzi:</span>
+                                <span class="results-value" id="incorrect-count">0</span>
+                            </div>
+                        </div>
+
+                        <div class="results-actions">
+                            <button id="review-answers-btn" class="btn-secondary">Przejrzyj odpowiedzi</button>
+                            <button id="new-exam-btn" class="btn-primary">Rozpocznij nowy egzamin</button>
+                        </div>
+                    </div>
+                </section>
+                <section id="nauka-section" class="content-panel">
+
+                    <div class="learning-tabs">
+                        <div class="tab-header">
+                            <button class="tab-btn active" data-target="materials-tab">Materiały</button>
+                            <button class="tab-btn" data-target="videos-tab">Filmy</button>
+                            <button class="tab-btn" data-target="interactive-tab">Nauka Interaktywna</button>
+                        </div>
+
+                        <div id="materials-tab" class="tab-content active">
+                            <div class="materials-grid">
+                                <div class="material-card">
+                                    <h3>Sieci Komputerowe</h3>
+                                    <p>Materiały dotyczące budowy i konfiguracji sieci komputerowych.</p>
+                                    <div class="material-links">
+                                        <a href="baza_do_nauki\Adresowanie bezklasowe.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Adresowanie bezklasowe
+                                        </a>
+                                        <a href="baza_do_nauki\Adresowanie klasowe.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Adresowanie klasowe
+                                        </a>
+                                        <a href="baza_do_nauki\Konfiguracja ARP-DHCP.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Konfiguracja ARP-DHCP
+                                        </a>
+                                        <a href="baza_do_nauki\Konfiguracja Bridge.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Konfiguracja Bridge
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="material-card">
+                                    <h3>Systemy Operacyjne</h3>
+                                    <p>Materiały dotyczące konfiguracji i administracji systemami operacyjnymi.</p>
+                                    <div class="material-links">
+                                        <a href="baza_do_nauki\Polecenia Linux.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Polecenia Linux
+                                        </a>
+                                        <a href="baza_do_nauki\Polecenia Windows.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Polecenia Windows
+                                        </a>
+                                        <a href="baza_do_nauki\Przystawki Windows.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Przystawki Windows
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="material-card">
+                                    <h3>Sprzęt Komputerowy</h3>
+                                    <p>Materiały dotyczące budowy i diagnostyki sprzętu komputerowego.</p>
+                                    <div class="material-links">
+                                        <a href="baza_do_nauki\Podział urządzeń sieciowych.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Podział urządzeń sieciowych
+                                        </a>
+                                        <a href="baza_do_nauki\Teoria sieci komputerowe.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> Teoria sieci komputerowe
+                                        </a>
+                                    </div>
+                                </div>
+
+                                <div class="material-card">
+                                    <h3>Certyfikaty</h3>
+                                    <p>Materiały przygotowujące do egzaminów certyfikacyjnych.</p>
+                                    <div class="material-links">
+                                        <a href="baza_do_nauki\MTCNA - marzec 2025 - ver. 1.10.10.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> MTCNA - marzec 2025
+                                        </a>
+                                        <a href="baza_do_nauki\mikrotik_mtcna.pdf" target="_blank" class="material-link">
+                                            <i class="fas fa-file-pdf"></i> MikroTik MTCNA
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="videos-tab" class="tab-content">
+                            <div class="youtube-section">
+                                <h3>Polecane Materiały Video</h3>
+                                <p class="section-description">Obejrzyj materiały wideo, które pomogą Ci lepiej zrozumieć zagadnienia egzaminacyjne.</p>
+
+                                <div class="youtube-grid">
+                                    <!-- Row 1 -->
+                                    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/dQw4w9WgXcQ/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Podstawy sieci komputerowych</h4>
+                                            <p>Wprowadzenie do sieci komputerowych i modelu OSI</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=8toHfZm8jNI" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/8toHfZm8jNI/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Adresowanie IP</h4>
+                                            <p>Jak działa adresowanie IP i maska podsieci</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=7jA0qJEcZ0U" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/7jA0qJEcZ0U/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Protokoły sieciowe</h4>
+                                            <p>Najważniejsze protokoły sieciowe i ich zastosowanie</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=ZhEf7e4kopM" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/ZhEf7e4kopM/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Konfiguracja routera</h4>
+                                            <p>Podstawowa konfiguracja routera w sieci</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=aqnX-dQz4MA" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/aqnX-dQz4MA/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Bezpieczeństwo sieci</h4>
+                                            <p>Podstawowe zasady bezpieczeństwa w sieciach</p>
+                                        </div>
+                                    </a>
+
+                                    <!-- Row 2 -->
+                                    <a href="https://www.youtube.com/watch?v=3QhU9jd03a0" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/3QhU9jd03a0/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Systemy operacyjne</h4>
+                                            <p>Wprowadzenie do systemów operacyjnych</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=XZWLg7nUjYo" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/XZWLg7nUjYo/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Podstawy Linux</h4>
+                                            <p>Wprowadzenie do systemu Linux</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=Wgi-OfbP2Gw" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/Wgi-OfbP2Gw/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Polecenia Windows</h4>
+                                            <p>Najważniejsze polecenia w systemie Windows</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=SkVqJ1SGeL0" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/SkVqJ1SGeL0/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Diagnostyka sprzętu</h4>
+                                            <p>Jak diagnozować problemy ze sprzętem</p>
+                                        </div>
+                                    </a>
+
+                                    <a href="https://www.youtube.com/watch?v=6_D1ux3iDMA" target="_blank" class="video-card">
+                                        <div class="video-thumbnail">
+                                            <img src="https://img.youtube.com/vi/6_D1ux3iDMA/mqdefault.jpg" alt="Thumbnail">
+                                            <div class="play-button"><i class="fas fa-play"></i></div>
+                                        </div>
+                                        <div class="video-info">
+                                            <h4>Naprawa komputerów</h4>
+                                            <p>Podstawowe naprawy sprzętu komputerowego</p>
+                                        </div>
+                                    </a>
+                                </div>
+
+                                <div class="view-all-videos">
+                                    <a href="https://www.youtube.com/playlist?list=PLRkVsC4KPidzIsklsjTeCGMKcEehA6VuH" target="_blank" class="btn-primary">
+                                        <i class="fab fa-youtube"></i> Zobacz wszystkie filmy
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div id="interactive-tab" class="tab-content">
+                            <div class="interactive-learning-container">
+                                <h3>Nauka Interaktywna</h3>
+                                <div class="coming-soon-message">
+                                    <i class="fas fa-tools" style="font-size: 3em; margin-bottom: 20px; color: var(--neon-green);"></i>
+                                    <h4>Sekcja w przygotowaniu</h4>
+                                    <p>Ta funkcjonalność jest obecnie w trakcie rozwoju. Wkrótce będą dostępne interaktywne materiały do nauki.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <section id="autor-section" class="content-panel">
+
+                    <div class="author-container">
+                        <div class="author-card">
+                            <div class="author-header">
+                                <div class="author-avatar">
+                                    <i class="fas fa-user-circle"></i>
+                                </div>
+                                <div class="author-info">
+                                    <h3>mkdevelopment1312</h3>
+                                    <p class="author-title">Twórca platformy INF.02</p>
+                                </div>
+                            </div>
+                            <div class="author-content">
+                                <p>Cześć! Jestem twórcą tej platformy edukacyjnej, która pomoże Ci przygotować się do egzaminu INF.02.</p>
+                                <p>Platforma zawiera ponad 700 pytań, które pomogą Ci sprawdzić swoją wiedzę i przygotować się do egzaminu.</p>
+                                <p>Życzę Ci powodzenia na wszystkich egzaminach!</p>
+
+                                <div class="author-stats">
+                                    <div class="author-stat">
+                                        <i class="fas fa-code"></i>
+                                        <span>Programista</span>
+                                    </div>
+                                    <div class="author-stat">
+                                        <i class="fas fa-graduation-cap"></i>
+                                        <span>Edukator</span>
+                                    </div>
+                                    <div class="author-stat">
+                                        <i class="fas fa-laptop-code"></i>
+                                        <span>Web Developer</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="author-footer">
+                                <a href="https://github.com/mkdevelopment1312" target="_blank" class="btn-neon">
+                                    <i class="fab fa-github"></i> Odwiedź mój GitHub
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div> <!-- Closing dashboard-layout -->
+
+    <!-- Duplicate Questions Modal -->
+    <div id="duplicate-questions-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>Analiza duplikatów pytań</h3>
+                <span class="close-modal" id="close-duplicate-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div id="duplicate-analysis-loading" class="loading-container">
+                    <div class="spinner"></div>
+                    <p>Analizowanie pytań...</p>
+                </div>
+                <div id="duplicate-analysis-results" class="analysis-results">
+                    <!-- Results will be inserted here -->
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button id="close-duplicate-analysis-btn" class="btn-primary">Zamknij</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="question_numbering_client.js"></script>
+    <script src="duplicate_checker_client.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>

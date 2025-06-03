@@ -1,0 +1,2246 @@
+Pytanie 1
+Transformator impulsowy w przedstawionym zasilaczu oznaczono symbolem
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/2.jpg]
+a) D
+b) C
+c) A
+d) B
+Poprawna odpowiedź: b
+
+Pytanie 2
+Na przedstawionej płycie głównej możliwy jest montaż procesora z obudową typu
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/3.jpg]
+a) SPGA
+b) SECC
+c) LGA
+d) PGA
+Poprawna odpowiedź: a
+
+Pytanie 3
+Kompatybilne podzespoły oznaczono w tabeli numerami
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/4.jpg]
+a) 1, 4, 6
+b) 2, 4, 5
+c) 2, 4, 6
+d) 1, 3, 5
+Poprawna odpowiedź: c
+
+Pytanie 4
+Do aktualizacji systemów Linux można wykorzystać programy
+a) defrag i YaST
+b) apt-get i zypper
+c) aptitude i amaroK
+d) yum i dpkg
+Poprawna odpowiedź: b
+
+Pytanie 5
+Aby umożliwić komunikację urządzenia mobilnego z komputerem przez interfejs Bluetooth, należy
+a) połączyć urządzenia kablem krosowym
+b) wykonać parowanie urządzeń
+c) skonfigurować urządzenie mobilne przez przeglądarkę
+d) utworzyć sieć WAN dla urządzeń
+Poprawna odpowiedź: b
+
+Pytanie 6
+Wskaż narzędzie służące do mocowania pojedynczych żył kabla miedzianego w złączach
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/13.jpg]
+a) C
+b) D
+c) B
+d) A
+Poprawna odpowiedź: a
+
+Pytanie 7
+Który adres IP należy do klasy A?
+a) 217.12.45.1
+b) 125.11.0.7
+c) 192.168.0.1
+d) 129.10.0.17
+Poprawna odpowiedź: b
+
+Pytanie 8
+Wskaż adres rozgłoszeniowy sieci, do której należy host o adresie 88.89.90.91/6
+a) 88.89.255.255
+b) 91.89.255.255
+c) 91.255.255.255
+d) 88.255.255.255
+Poprawna odpowiedź: c
+
+Pytanie 9
+Na schemacie obrazującym zasadę działania monitora plazmowego numerem 6 oznaczono
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/18.jpg]
+a) warstwę dielektryka
+b) elektrody adresujące
+c) elektrody wyświetlacza
+d) warstwę fosforu
+Poprawna odpowiedź: b
+
+Pytanie 10
+Aby wyczyścić z kurzu wnętrze obudowy drukarki fotograficznej, należy użyć
+a) środka smarującego
+b) opaski antystatycznej
+c) sprężonego powietrza w pojemniku z wydłużoną rurką
+d) szczotki z twardym włosiem
+Poprawna odpowiedź: c
+
+Pytanie 11
+Na podstawie zrzutu ekranu przedstawiającego konfigurację przełącznika można stwierdzić, że
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/21.jpg]
+a) maksymalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 20 sekund
+b) minimalny czas krążenia w sieci komunikatów protokołu BPDU wynosi 25 sekund
+c) czas między wysyłaniem kolejnych komunikatów o poprawnej pracy urządzenia wynosi 3 sekundy
+d) maksymalny czas pomiędzy zmianami statusu łącza wynosi 5 sekund
+Poprawna odpowiedź: c
+
+Pytanie 12
+Przedstawione polecenia, uruchomione w interfejsie CLI rutera firmy CISCO, spowodują
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/23.jpg]
+a) określenie puli adresów wewnętrznych 10.0.0.1 ÷ 255.255.255.0
+b) ustawienie interfejsu wewnętrznego o adresie 10.0.0.1/24 dla technologii NAT
+c) dopuszczenie ruchu pochodzącego z sieci o adresie 10.0.0.1
+d) ustawienie interfejsu zewnętrznego o adresie 10.0.0.1/24 dla technologii NAT
+Poprawna odpowiedź: b
+
+Pytanie 13
+Schemat przedstawia zasadę działania sieci VPN o nazwie
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/24.jpg]
+a) Gateway
+b) L2TP
+c) Site-to-Site
+d) PPTP
+Poprawna odpowiedź: c
+
+Pytanie 14
+Przedstawione narzędzie może być wykorzystane do
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/25.jpg]
+a) sprawdzenia długości badanego kabla sieciowego
+b) pomiaru wartości napięcia w zasilaczu
+c) utrzymania drukarki w czystości
+d) zaciskania złącz RJ45
+Poprawna odpowiedź: b
+
+Pytanie 15
+Wskaż program systemu Linux, służący do kompresji danych
+a) tar
+b) gzip
+c) shar
+d) lzma
+Poprawna odpowiedź: b
+
+Pytanie 16
+Wskaż sygnał oznaczający błąd karty graficznej komputera wyposażonego w BIOS POST firmy AWARD
+a) 1 długi, 5 krótkich
+b) 1 długi, 9 krótkich
+c) 1 długi, 2 krótkie
+d) 3 krótkie
+Poprawna odpowiedź: c
+
+Pytanie 17
+SuperPi to program wykorzystywany do sprawdzenia
+a) obciążenia i wydajności kart graficznych
+b) wydajności procesorów o zwiększonej częstotliwości
+c) stabilności dysków SSD
+d) ilości niewykorzystanej pamięci operacyjnej RAM
+Poprawna odpowiedź: b
+
+Pytanie 18
+Konfigurację interfejsu sieciowego w systemie Linux można wykonać, edytując plik
+a) /etc/host.conf
+b) /etc/network/interfaces
+c) /etc/resolv.conf
+d) /etc/hosts
+Poprawna odpowiedź: b
+
+Pytanie 19
+W systemie Linux polecenie touch służy do
+a) przeniesienia lub zmiany nazwy pliku
+b) wyszukania podanego wzorca w tekście pliku
+c) utworzenia pliku lub zmiany daty modyfikacji lub daty ostatniego dostępu
+d) obliczenia liczby wierszy w pliku
+Poprawna odpowiedź: c
+
+Pytanie 20
+Po wydaniu przedstawionego polecenia systemu Windows, wartość 11 zostanie ustawiona dla
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/37.jpg]
+a) maksymalnej liczby dni między zmianami haseł użytkowników
+b) minimalnej liczby minut, przez które użytkownik może być zalogowany
+c) minimalnej liczby znaków w hasłach użytkowników
+d) maksymalnej liczby nieudanych logowań
+Poprawna odpowiedź: c
+
+Pytanie 21
+Protokół RDP jest wykorzystywany w usłudze
+a) terminalowej w systemie Linux
+b) pulpitu zdalnego w systemie Windows
+c) poczty elektronicznej w systemie Linux
+d) współdzielenia plików w systemie Windows
+Poprawna odpowiedź: b
+
+Pytanie 22
+Narzędziem systemu Windows służącym do sprawdzenia prób logowania do systemu jest dziennik
+a) System
+b) zabezpieczeń
+c) aplikacji
+d) konfiguracji
+Poprawna odpowiedź: b
+
+Pytanie 23
+Program fsck jest wykorzystywany w systemie Linux do
+a) monitorowania parametrów pracy i wydajności podzespołów komputera
+b) dokonania oceny stanu systemu plików i wykrycia uszkodzonych sektorów
+c) przeprowadzenia testów wydajnościowych serwera WWW
+d) zarządzania procesami systemowymi
+Poprawna odpowiedź: b
+
+Pytanie 24
+Który zapis w systemie binarnym odpowiada liczbie 91 zapisanej w systemie szesnastkowym?
+a) 10011001
+b) 10001011
+c) 10010001
+d) 10101010
+Poprawna odpowiedź: c
+
+Pytanie 25
+Którą bramkę logiczną opisuje wyrażenie
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/42.jpg]
+a) C
+b) D
+c) B
+d) A
+Poprawna odpowiedź: a
+
+Pytanie 26
+Na rysunku przedstawiona jest karta
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/43.jpg]
+a) kontrolera SCSI
+b) sieciowa Fibre Channel
+c) sieciowa Token Ring
+d) graficzna
+Poprawna odpowiedź: b
+
+Pytanie 27
+Na rysunku przedstawiono schemat blokowy karty
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/44.jpg]
+a) graficznej
+b) telewizyjnej
+c) dźwiękowej
+d) sieciowej
+Poprawna odpowiedź: a
+
+Pytanie 28
+Na rysunku przedstawiono tylny panel stacji roboczej. Strzałką oznaczono port
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/46.jpg]
+a) eSATA
+b) DisplayPort
+c) USB 3.0
+d) HDMI
+Poprawna odpowiedź: b
+
+Pytanie 29
+Shareware to rodzaj licencji polegającej na
+a) bezpłatnym rozprowadzaniu aplikacji bez ujawniania kodu źródłowego
+b) bezpłatnym rozpowszechnianiu programu na czas testów przed zakupem
+c) korzystaniu z programu przez określony czas, po którym program przestaje działać
+d) pełnym dostępie do kodu źródłowego
+Poprawna odpowiedź: b
+
+Pytanie 30
+Który z symboli oznacza zastrzeżenie praw autorskich?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/50.jpg]
+a) D
+b) C
+c) A
+d) B
+Poprawna odpowiedź: b
+
+Pytanie 31
+Który typ fizycznej topologii sieci komputerowej przedstawiono na rysunku?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/51.jpg]
+a) Podwójnego pierścienia
+b) Magistrali
+c) Siatki
+d) Gwiazdy
+Poprawna odpowiedź: b
+
+Pytanie 32
+Który adres IPv6 jest prawidłowy?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/54.jpg]
+a) 1234-9ABC-123-DEF4
+b) 1234.9ABC.123.DEF4
+c) 1234:9ABC::123:DEF4
+d) 1234:9ABC:123:DEF4
+Poprawna odpowiedź: c
+
+Pytanie 33
+Który z protokołów w systemach operacyjnych Linux wykorzystywany jest w sieciach LAN?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/55.jpg]
+a) AppleTalk
+b) NetBEUI
+c) IP
+d) SPX
+Poprawna odpowiedź: c
+
+Pytanie 34
+Które urządzenie zastosowane w sieci komputerowej nie zmienia liczby domen kolizyjnych?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/57.jpg]
+a) Przełącznik
+b) Koncentrator
+c) Serwer
+d) Router
+Poprawna odpowiedź: b
+
+Pytanie 35
+Na rysunku przedstawiono zakończenie kabla
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/58.jpg]
+a) telefonicznego
+b) światłowodowego
+c) koncentrycznego
+d) skrętki
+Poprawna odpowiedź: b
+
+Pytanie 36
+Na rysunku przedstawiono wynik testu okablowania. Zinterpretuj wynik pomiaru
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/63.jpg]
+a) Rozdzielenie pary
+b) Odwrócenie pary
+c) Błąd zwarcia
+d) Przerwa w kablu
+Poprawna odpowiedź: b
+
+Pytanie 37
+Rozdzielczość optyczna to jeden z parametrów
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/66.jpg]
+a) monitora
+b) modemu
+c) skanera
+d) drukarki
+Poprawna odpowiedź: c
+
+Pytanie 38
+Na rysunku przedstawiono interfejs w komputerze przeznaczony do podłączenia
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/67.jpg]
+a) skanera lustrzanego
+b) drukarki laserowej
+c) monitora LCD
+d) plotera
+Poprawna odpowiedź: c
+
+Pytanie 39
+Na rysunku przedstawiono konfigurację urządzenia, z której wynika, że
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/73.jpg]
+a) VLAN z ID48 jest skonfigurowany jako zarządzalny
+b) utworzono trzy nowe VLAN-y: ID1, ID13, ID48
+c) utworzono dwa nowe VLAN-y: ID13, ID48
+d) VLAN z ID1 jest domyślny
+Poprawna odpowiedź: c
+
+Pytanie 40
+Który typ zabezpieczeń w sieci WiFi posiada najlepszy poziom zabezpieczeń?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/75.jpg]
+a) WPA
+b) WPA2
+c) NTFS
+d) WEP
+Poprawna odpowiedź: b
+
+Pytanie 41
+Aby profil stał się obowiązkowym, należy zmienić rozszerzenie pliku ntuser.dat na
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/80.jpg]
+a) $ntuser.bat
+b) $ntuser.exe
+c) ntuser.man
+d) ntuser.pol
+Poprawna odpowiedź: c
+
+Pytanie 42
+Przedstawiony na rysunku element elektroniczny to
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/81.jpg]
+a) rezystor
+b) tranzystor
+c) kondensator
+d) dioda
+Poprawna odpowiedź: b
+
+Pytanie 43
+W dokumentacji technicznej efektywność głośnika podłączonego do komputera zapisuje się w jednostce
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/82.jpg]
+a) W
+b) dB
+c) kHz
+d) Hz
+Poprawna odpowiedź: b
+
+Pytanie 44
+Do instalacji oraz deinstalacji oprogramowania w systemie Ubuntu służy menedżer
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/86.jpg]
+a) tar
+b) apt
+c) kast
+d) dpkg
+Poprawna odpowiedź: b
+
+Pytanie 45
+Wydając w wierszu poleceń systemu Windows Server polecenie convert, można przeprowadzić
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/87.jpg]
+a) naprawę systemu plików
+b) naprawę logicznej struktury dysku
+c) zmianę systemu plików
+d) defragmentację dysku
+Poprawna odpowiedź: c
+
+Pytanie 46
+Przedstawiona na rysunku topologia sieci to
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/89.jpg]
+a) star
+b) mesh
+c) ring
+d) bus
+Poprawna odpowiedź: a
+
+Pytanie 47
+Który protokół jest wykorzystywany do transmisji danych w warstwie transportowej modelu ISO/OSI?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/91.jpg]
+a) HTTP
+b) LDAP
+c) TCP
+d) FTP
+Poprawna odpowiedź: c
+
+Pytanie 48
+Pomiar tłumienia w kablowym torze transmisyjnym pozwala określić
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/92.jpg]
+a) błędy instalacyjne typu zamiana pary
+b) spadek mocy sygnału w danej parze przewodu
+c) różnice między przesłuchami zdalnymi
+d) opóźnienie propagacji
+Poprawna odpowiedź: b
+
+Pytanie 49
+Odpowiednikiem adresu pętli zwrotnej jest w IPv6 adres
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/93.jpg]
+a) ::fff/64
+b) ::1/128
+c) :1:1:1/96
+d) 0:0/32
+Poprawna odpowiedź: b
+
+Pytanie 50
+Który zapis adresu IPv4 wraz z maską jest błędny?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/94.jpg]
+a) 100.0.0.0/8
+b) 192.168.0.1, maska 255.250.255.0
+c) 18.4.0.0, maska 255.0.0.0
+d) 172.16.0.0/16
+Poprawna odpowiedź: b
+
+Pytanie 51
+Wewnętrzny protokół trasowania, którego metryką jest wektor odległości, to
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/98.jpg]
+a) OSPF
+b) IS-IS
+c) RIP
+d) BGP
+Poprawna odpowiedź: c
+
+Pytanie 52
+Materiałem eksploatacyjnym plotera solwentowego jest
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/100.jpg]
+a) atrament żelowy
+b) farba na bazie rozpuszczalników
+c) zestaw metalowych rylców
+d) filament
+Poprawna odpowiedź: b
+
+Pytanie 53
+Który protokół jest wykorzystywany przez polecenie ping?
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/102.jpg]
+a) FTP
+b) ICMP
+c) SMTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 54
+Przedstawiony listing zawiera polecenia umożliwiające
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/104.jpg]
+a) zmianę ustawienia prędkości dla portu 0/1 na fastethernet
+b) konfigurację wirtualnej sieci lokalnej o nazwie vlan 10 w przełączniku
+c) ustawienie nazwy fastEthernet dla pierwszych dziesięciu portów przełącznika
+d) włączenie protokołu STP
+Poprawna odpowiedź: b
+
+Pytanie 55
+Przedstawione na rysunku narzędzie służy do testowania
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/106.jpg]
+a) płyty głównej
+b) okablowania LAN
+c) karty sieciowej
+d) zasilacza
+Poprawna odpowiedź: b
+
+Pytanie 56
+Kopię danych w systemie Linux można wykonać za pomocą polecenia
+[Zdjęcie/Nagranie: https://www.praktycznyegzamin.pl/ee08/teoria/wszystko/ee08/107.jpg]
+a) restore
+b) split
+c) dd
+d) cp
+
+Pytanie 1
+Jaki jest zakres adresów IP dla klasy A z maską 255.0.0.0/8?
+a) 192.168.0.0 - 192.168.255.255
+b) 172.16.0.0 - 172.31.255.255
+c) 10.0.0.0 - 10.255.255.255
+d) 169.254.0.0 - 169.254.255.255
+Poprawna odpowiedź: c
+
+Pytanie 2
+Który zakres adresów IP należy do klasy B z maską 255.240.0.0/12?
+a) 192.168.0.0 - 192.168.255.255
+b) 172.16.0.0 - 172.31.255.255
+c) 10.0.0.0 - 10.255.255.255
+d) 127.0.0.0 - 127.255.255.255
+Poprawna odpowiedź: b
+
+Pytanie 3
+Jaki jest zakres adresów IP dla klasy C z maską 255.255.255.0/24?
+a) 192.168.0.0 - 192.168.255.255
+b) 172.16.0.0 - 172.31.255.255
+c) 10.0.0.0 - 10.255.255.255
+d) 169.254.0.0 - 169.254.255.255
+Poprawna odpowiedź: a
+
+Pytanie 4
+Czym charakteryzuje się sieć LAN?
+a) Obejmuje duży obszar, np. kraj lub kontynent
+b) Łączy urządzenia w obrębie miasta
+c) Działa na niewielkim obszarze, np. w biurze
+d) Jest używana wyłącznie w sieciach bezprzewodowych
+Poprawna odpowiedź: c
+
+Pytanie 5
+Jaki rodzaj sieci obejmuje obszar miasta?
+a) LAN
+b) MAN
+c) WAN
+d) VLAN
+Poprawna odpowiedź: b
+
+Pytanie 6
+Która norma dotyczy specyfikacji i zapewnienia jakości sieci?
+a) PL-EN 50174-2
+b) PL-EN 50174-3
+c) PL-EN 50174-1
+d) ISO 27001
+Poprawna odpowiedź: c
+
+Pytanie 7
+Norma PL-EN 50174-2 dotyczy:
+a) Planowania instalacji wewnątrz budynków
+b) Planowania instalacji na zewnątrz budynków
+c) Specyfikacji i zapewnienia jakości sieci
+d) Bezpieczeństwa danych w sieci
+Poprawna odpowiedź: a
+
+Pytanie 8
+Zgodnie z zasadami BHP, jak daleko od monitora powinien znajdować się użytkownik?
+a) 20-30 cm
+b) 50-70 cm
+c) 100-120 cm
+d) 5-10 cm
+Poprawna odpowiedź: b
+
+Pytanie 9
+Co oznacza certyfikat CE w kontekście urządzeń komputerowych?
+a) Zgodność z zasadami bezpieczeństwa w Europie
+b) Mniejszą ilość odpadów i możliwość recyklingu
+c) Certyfikat bezpieczeństwa w USA
+d) Certyfikat jakości w Niemczech
+Poprawna odpowiedź: b
+
+Pytanie 10
+Symbol WEEE na urządzeniach oznacza:
+a) Certyfikat bezpieczeństwa w USA
+b) Przekreślony kosz na śmieci – konieczność recyklingu
+c) Zgodność z normami niemieckimi
+d) Certyfikat dla Ameryki Południowej
+Poprawna odpowiedź: b
+
+Pytanie 11
+Certyfikat FCC dotyczy:
+a) Europy
+b) Niemiec
+c) USA
+d) Ameryki Południowej
+Poprawna odpowiedź: c
+
+Pytanie 12
+Certyfikat TUV jest charakterystyczny dla:
+a) USA
+b) Niemiec
+c) Ameryki Południowej
+d) Europy
+Poprawna odpowiedź: b
+
+Pytanie 13
+W topologii magistrali wszystkie urządzenia:
+a) Są połączone z centralnym hubem
+b) Używają wspólnego medium transmisyjnego
+c) Działają w dwóch kierunkach
+d) Są odporne na awarie
+Poprawna odpowiedź: b
+
+Pytanie 14
+Czym charakteryzuje się topologia liniowa?
+a) Wszystkie urządzenia są połączone z hubem
+b) Awaria jednego urządzenia przerywa komunikację
+c) Urządzenia są połączone w pierścień
+d) Umożliwia redundancję połączeń
+Poprawna odpowiedź: b
+
+Pytanie 15
+W topologii pierścienia dane:
+a) Przesyłane są w dwóch kierunkach
+b) Przesyłane są w jednym kierunku, aż dotrą do odbiorcy
+c) Przechodzą przez centralny hub
+d) Są przesyłane losowo
+Poprawna odpowiedź: b
+
+Pytanie 16
+Topologia podwójnego pierścienia charakteryzuje się:
+a) Połączeniem zwrotnym w obu kierunkach
+b) Połączeniem z centralnym hubem
+c) Jednym kierunkiem przesyłania danych
+d) Brakiem redundancji
+Poprawna odpowiedź: a
+
+Pytanie 17
+W topologii gwiazdy urządzenia są:
+a) Połączone w pierścień
+b) Połączone z centralnym hubem
+c) Połączone w linii
+d) Połączone bezpośrednio między sobą
+Poprawna odpowiedź: b
+
+Pytanie 18
+Topologia rozszerzonej gwiazdy jest używana w:
+a) Małych sieciach domowych
+b) Sieciach z centralnym hubem i dodatkowymi hubami
+c) Sieciach pierścieniowych
+d) Sieciach liniowych
+Poprawna odpowiedź: b
+
+Pytanie 19
+Topologia hierarchiczna jest stosowana w:
+a) Małych sieciach
+b) Dużych sieciach z wieloma poziomami
+c) Sieciach bezprzewodowych
+d) Sieciach pierścieniowych
+Poprawna odpowiedź: b
+
+Pytanie 20
+Topologia siatki zapewnia:
+a) Niską niezawodność
+b) Wysoką niezawodność dzięki redundancji
+c) Połączenie z centralnym hubem
+d) Przesyłanie danych w jednym kierunku
+Poprawna odpowiedź: b
+
+Pytanie 21
+Co to jest karta sieciowa?
+a) Urządzenie do przechowywania danych
+b) Urządzenie umożliwiające komunikację komputera z siecią
+c) Centralny punkt sieci
+d) Urządzenie do konwersji sygnału
+Poprawna odpowiedź: b
+
+Pytanie 22
+Karta sieciowa posiada:
+a) Unikatowy adres MAC
+b) Adres IP przypisany na stałe
+c) Adres DNS
+d) Adres bramy domyślnej
+Poprawna odpowiedź: a
+
+Pytanie 23
+Do czego służy hub w sieci?
+a) Przekazuje dane między różnymi sieciami
+b) Rozszerza liczbę portów w sieci
+c) Konwertuje sygnał z jednego medium na inne
+d) Zarządza ruchem w warstwie aplikacji
+Poprawna odpowiedź: b
+
+Pytanie 24
+Jaką rolę pełni router w sieci?
+a) Rozszerza liczbę portów
+b) Przekazuje dane między różnymi sieciami
+c) Konwertuje sygnał z jednego medium na inne
+d) Synchronizuje pocztę elektroniczną
+Poprawna odpowiedź: b
+
+Pytanie 25
+Switch w sieci komputerowej działa głównie w:
+a) Warstwie aplikacji modelu ISO/OSI
+b) Warstwie transportowej modelu ISO/OSI
+c) Warstwie łącza danych modelu ISO/OSI
+d) Warstwie fizycznej modelu ISO/OSI
+Poprawna odpowiedź: c
+
+Pytanie 26
+Czym jest konwerter mediów?
+a) Urządzeniem łączącym segmenty sieci w warstwie aplikacji
+b) Urządzeniem umożliwiającym konwersję sygnału między różnymi mediami
+c) Centralnym punktem sieci
+d) Urządzeniem do zarządzania ruchem sieciowym
+Poprawna odpowiedź: b
+
+Pytanie 27
+Który program w systemie Linux służy do aktualizacji systemu?
+a) gzip
+b) apt-get
+c) dd
+d) tar
+Poprawna odpowiedź: b
+
+Pytanie 28
+Programem w systemie Linux do kompresji danych jest:
+a) apt-get
+b) gzip
+c) dd
+d) tar
+Poprawna odpowiedź: b
+
+Pytanie 29
+Jakie kroki należy podjąć, aby zminimalizować zagrożenia bezpieczeństwa w sieci?
+a) Wyłączyć firewall i program antywirusowy
+b) Zainstalować program antywirusowy, zaktualizować bazy wirusów, włączyć firewall i zaktualizować system
+c) Wyłączyć aktualizacje systemu
+d) Zainstalować przeglądarkę internetową
+Poprawna odpowiedź: b
+
+Pytanie 30
+Który protokół działa w warstwie aplikacji modelu ISO/OSI i służy do wymiany informacji kontrolnych między urządzeniami sieciowymi?
+a) HTTP
+b) SNMP
+c) FTP
+d) DHCP
+Poprawna odpowiedź: b
+
+Pytanie 31
+Który typ zabezpieczeń w sieci WiFi zapewnia najlepszy poziom bezpieczeństwa?
+a) WEP
+b) WPA
+c) WPA2
+d) Brak zabezpieczeń
+Poprawna odpowiedź: c
+
+Pytanie 32
+Który typ zabezpieczeń w sieci WiFi jest najsłabszy?
+a) WEP
+b) WPA
+c) WPA2
+d) WPA3
+Poprawna odpowiedź: a
+
+Pytanie 33
+Dana jest sieć o adresie 172.16.0.0/16. Jakie adresy są prawidłowe po wydzieleniu 4 podsieci z maską 18-bitową?
+a) 172.16.0.0, 172.16.64.0, 172.16.128.0, 172.16.192.0
+b) 172.16.0.0, 172.16.1.0, 172.16.2.0, 172.16.3.0
+c) 172.16.0.0, 172.16.16.0, 172.16.32.0, 172.16.48.0
+d) 172.16.0.0, 172.16.10.0, 172.16.20.0, 172.16.30.0
+Poprawna odpowiedź: a
+
+Pytanie 34
+Jakim poleceniem w systemie Linux można wykonać kopię danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: c
+
+Pytanie 35
+Jakie polecenie w systemie Windows pozwala sprawdzić minimalny okres ważności hasła?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: a
+
+Pytanie 36
+Wynik dodawania binarnego 1001101 i 11001 to:
+a) 1011010
+b) 1100110
+c) 1110000
+d) 1000000
+Poprawna odpowiedź: b
+
+Pytanie 37
+Który protokół służy do zdalnego logowania przez SSH?
+a) FTP
+b) HTTP
+c) SSH
+d) SNMP
+Poprawna odpowiedź: c
+
+Pytanie 38
+Który protokół pocztowy służy do wysyłania wiadomości e-mail?
+a) IMAP
+b) POP3
+c) SMTP
+d) DNS
+Poprawna odpowiedź: c
+
+Pytanie 39
+Który protokół pocztowy służy do odbierania wiadomości e-mail i synchronizacji?
+a) SMTP
+b) IMAP
+c) POP3
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 40
+Który protokół pocztowy służy do odbierania wiadomości e-mail, ale nie synchronizuje ich?
+a) SMTP
+b) IMAP
+c) POP3
+d) FTP
+Poprawna odpowiedź: c
+
+Pytanie 41
+Które adresy IP są prywatne?
+a) 8.8.8.8
+b) 192.168.1.1
+c) 1.1.1.1
+d) 203.0.113.1
+Poprawna odpowiedź: b
+
+Pytanie 42
+Do czego służy komenda assoc w systemie Windows?
+a) Wyświetla konfigurację sieci
+b) Wyświetla i modyfikuje skojarzenia rozszerzeń plików
+c) Sprawdza minimalny okres ważności hasła
+d) Testuje połączenie sieciowe
+Poprawna odpowiedź: b
+
+Pytanie 43
+Komenda tar w systemie Linux służy do:
+a) Kompresji danych
+b) Tworzenia archiwów i zarządzania nimi
+c) Kopiowania danych
+d) Aktualizacji systemu
+Poprawna odpowiedź: b
+
+Pytanie 44
+Które porty są używane przez protokół FTP?
+a) 22 i 23
+b) 20 i 21
+c) 80 i 443
+d) 53 i 67
+Poprawna odpowiedź: b
+
+Pytanie 45
+W standardzie T568B skrętki, który kolor kabla jest pierwszy?
+a) Zielony
+b) Pomarańczowy
+c) Niebieski
+d) Brązowy
+Poprawna odpowiedź: b
+
+Pytanie 46
+Co to jest panel krosowy?
+a) Urządzenie do zarządzania ruchem sieciowym
+b) Panel do organizacji kabli i połączeń w szafie rack
+c) Karta sieciowa
+d) Konwerter mediów
+Poprawna odpowiedź: b
+
+Pytanie 47
+Do czego służy sieć wewnętrzna w VirtualBox?
+a) Umożliwia komunikację między maszynami wirtualnymi bez dostępu do Internetu
+b) Umożliwia dostęp do Internetu
+c) Służy do komunikacji z hostem
+d) Umożliwia zdalne logowanie
+Poprawna odpowiedź: a
+
+Pytanie 48
+Jakie narzędzie służy do wycinania izolacji kabli światłowodowych?
+a) Ściągacz izolacji
+b) Nożyczki
+c) Kombinerki
+d) Tester kabli
+Poprawna odpowiedź: a
+
+Pytanie 49
+Jaki jest symbol Access Point w dokumentacji sieciowej?
+a) Trójkąt z antenką
+b) Koło z krzyżykiem
+c) Kwadrat z liniami
+d) Prostokąt z portami
+Poprawna odpowiedź: a
+
+Pytanie 50
+Który program służy do mierzenia wydajności komputera?
+a) CrystalDiskMark
+b) Notepad
+c) Paint
+d) Calculator
+Poprawna odpowiedź: a
+
+Pytanie 51
+Co należy zainstalować na Windows Server, aby dwie karty sieciowe mogły się komunikować?
+a) Mostek sieciowy (Network Bridge)
+b) Firewall
+c) Program antywirusowy
+d) Przeglądarkę internetową
+Poprawna odpowiedź: a
+
+Pytanie 52
+Co to jest trollowanie w kontekście sieci?
+a) Tworzenie kopii zapasowych danych
+b) Zakłócanie komunikacji w sieci przez złośliwe działania
+c) Zdalne logowanie do serwera
+d) Konfiguracja routera
+Poprawna odpowiedź: b
+
+Pytanie 53
+Które urządzenie umożliwia komunikację komputerów w sieci bezprzewodowej?
+a) Switch
+b) Router
+c) Access Point
+d) Hub
+Poprawna odpowiedź: c
+
+Pytanie 54
+Jaką normę ISO/EN można powiązać z instalacją sieci?
+a) PL-EN 50174-1
+b) ISO 9001
+c) ISO 27001
+d) ISO 14001
+Poprawna odpowiedź: a
+
+Pytanie 55
+Jak zmienić nazwę użytkownika z Administrator na Superużytkownik w systemie Windows?
+a) Za pomocą polityki zabezpieczeń
+b) Za pomocą komendy assoc
+c) Za pomocą komendy ping
+d) Za pomocą komendy tar
+Poprawna odpowiedź: a
+
+Pytanie 56
+Jaką komendą w Linuxie można zarchiwizować dane?
+a) dd
+b) tar
+c) gzip
+d) apt-get
+Poprawna odpowiedź: b
+
+Pytanie 57
+Co umożliwia rutowanie między sieciami VLAN?
+a) Switch
+b) Router
+c) Hub
+d) Konwerter mediów
+Poprawna odpowiedź: b
+
+Pytanie 58
+W której warstwie modelu ISO/OSI działa przełącznik (switch)?
+a) Warstwa aplikacji
+b) Warstwa transportowa
+c) Warstwa łącza danych
+d) Warstwa fizyczna
+Poprawna odpowiedź: c
+
+Pytanie 59
+Który profil umożliwia przesyłanie danych użytkownika między różnymi stacjami roboczymi?
+a) Profil lokalny
+b) Profil mobilny (roamingowy)
+c) Profil tymczasowy
+d) Profil administratora
+Poprawna odpowiedź: b
+
+Pytanie 60
+Który element drukarki laserowej odpowiada za przenoszenie toneru na papier?
+a) Bęben
+b) Wałek transferowy
+c) Laser
+d) Grzałka
+Poprawna odpowiedź: b
+
+Pytanie 61
+Jaki router należy wybrać dla sieci z 48 portami i obsługą światłowodów?
+a) Router z 24 portami i bez obsługi światłowodów
+b) Router z 48 portami i obsługą światłowodów
+c) Switch z 48 portami
+d) Access Point
+Poprawna odpowiedź: b
+
+Pytanie 62
+Jak wyświetlić pomoc do komendy ping w systemie Windows?
+a) ping /?
+b) ping -h
+c) ping help
+d) ping /h
+Poprawna odpowiedź: a
+
+Pytanie 63
+Ile hostów można zaadresować w podsieci, jeśli liczba hostów wynosi 14?
+a) 12
+b) 14
+c) 16
+d) 18
+Poprawna odpowiedź: c
+
+Pytanie 64
+Jaka jest reprezentacja liczby 10 w systemie U2 (uzupełnienie do dwóch)?
+a) 1010
+b) 1110
+c) 00001010
+d) 11110110
+Poprawna odpowiedź: c
+
+Pytanie 65
+Gdzie w systemie Windows można zmienić wymagania dotyczące złożoności haseł?
+a) W polityce zabezpieczeń
+b) W ustawieniach sieciowych
+c) W panelu sterowania – sieć
+d) W edytorze rejestru
+Poprawna odpowiedź: a
+
+Pytanie 66
+Jakie narzędzie służy do mierzenia prądu stałego w obwodach?
+a) Multimetr
+b) Tester kabli
+c) Oscyloskop
+d) Woltomierz
+Poprawna odpowiedź: a
+
+Pytanie 67
+Który protokół warstwy aplikacji służy do przesyłania stron internetowych?
+a) HTTP
+b) FTP
+c) SMTP
+d) IMAP
+Poprawna odpowiedź: a
+
+Pytanie 68
+Na którym porcie działa protokół HTTP?
+a) 21
+b) 80
+c) 443
+d) 110
+Poprawna odpowiedź: b
+
+Pytanie 69
+Który protokół jest szyfrowaną wersją HTTP?
+a) HTTPS
+b) FTP
+c) SMTP
+d) POP3
+Poprawna odpowiedź: a
+
+Pytanie 70
+Na którym porcie działa protokół HTTPS?
+a) 80
+b) 443
+c) 21
+d) 53
+Poprawna odpowiedź: b
+
+Pytanie 71
+Który protokół służy do transferu plików i działa na portach 20 i 21?
+a) HTTP
+b) FTP
+c) SMTP
+d) DNS
+Poprawna odpowiedź: b
+
+Pytanie 72
+Na którym porcie działa protokół SMTP?
+a) 25
+b) 110
+c) 143
+d) 80
+Poprawna odpowiedź: a
+
+Pytanie 73
+Który protokół służy do odbierania poczty i działa na porcie 110?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 74
+Na którym porcie działa protokół IMAP?
+a) 110
+b) 143
+c) 25
+d) 80
+Poprawna odpowiedź: b
+
+Pytanie 75
+Który protokół tłumaczy nazwy domen na adresy IP i działa na porcie 53?
+a) DHCP
+b) DNS
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 76
+Na których portach działa protokół DHCP?
+a) 20 i 21
+b) 67 i 68
+c) 80 i 443
+d) 110 i 143
+Poprawna odpowiedź: b
+
+Pytanie 77
+Który protokół służy do bezpiecznego zdalnego logowania i działa na porcie 22?
+a) Telnet
+b) SSH
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 78
+Który protokół zdalnego logowania działa na porcie 23, ale jest nieszyfrowany?
+a) SSH
+b) Telnet
+c) FTP
+d) SNMP
+Poprawna odpowiedź: b
+
+Pytanie 79
+Który protokół jest używany w telefonii VoIP i działa na porcie 5060?
+a) SIP
+b) SNMP
+c) DHCP
+d) DNS
+Poprawna odpowiedź: a
+
+Pytanie 80
+Który protokół warstwy transportowej zapewnia niezawodne połączenie?
+a) UDP
+b) TCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 81
+Który protokół warstwy transportowej jest bezpołączeniowy i szybszy?
+a) TCP
+b) UDP
+c) FTP
+d) SNMP
+Poprawna odpowiedź: b
+
+Pytanie 82
+Czy komputer z kartą sieciową 100 Mb/s spełnia wymagania Windows Server 2016, który wymaga 1 Gb/s?
+a) Tak
+b) Nie
+c) Tylko w trybie bridge
+d) Tylko w trybie NAT
+Poprawna odpowiedź: b
+
+Pytanie 83
+Które z poniższych urządzeń jest niezbędne do routingu w sieci?
+a) Switch
+b) Hub
+c) Router
+d) Access Point
+Poprawna odpowiedź: c
+
+Pytanie 84
+Które polecenie w systemie Linux służy do kompresji plików?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: b
+
+Pytanie 85
+Które polecenie w systemie Linux służy do aktualizacji pakietów?
+a) tar
+b) apt-get
+c) gzip
+d) dd
+Poprawna odpowiedź: b
+
+Pytanie 86
+Które polecenie w systemie Linux służy do kopiowania danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: c
+
+Pytanie 87
+Które polecenie w systemie Windows służy do zarządzania skojarzeniami plików?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: b
+
+Pytanie 88
+Który protokół działa w warstwie aplikacji i służy do zarządzania urządzeniami sieciowymi?
+a) FTP
+b) HTTP
+c) SNMP
+d) DHCP
+Poprawna odpowiedź: c
+
+Pytanie 89
+Który protokół jest używany do dynamicznego przydzielania adresów IP?
+a) DNS
+b) DHCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 90
+Na którym porcie działa protokół SSH?
+a) 21
+b) 22
+c) 23
+d) 80
+Poprawna odpowiedź: b
+
+Pytanie 91
+Który protokół jest używany do synchronizacji poczty elektronicznej?
+a) SMTP
+b) POP3
+c) IMAP
+d) FTP
+Poprawna odpowiedź: c
+
+Pytanie 92
+Który protokół jest używany do wysyłania poczty elektronicznej?
+a) SMTP
+b) POP3
+c) IMAP
+d) FTP
+Poprawna odpowiedź: a
+
+Pytanie 93
+Który protokół jest używany do odbierania poczty elektronicznej bez synchronizacji?
+a) SMTP
+b) POP3
+c) IMAP
+d) FTP
+Poprawna odpowiedź: b
+
+Pytanie 94
+Który protokół działa na porcie 80?
+a) HTTP
+b) HTTPS
+c) FTP
+d) SSH
+Poprawna odpowiedź: a
+
+Pytanie 95
+Który protokół działa na porcie 443?
+a) HTTP
+b) HTTPS
+c) FTP
+d) SSH
+Poprawna odpowiedź: b
+
+Pytanie 96
+Który protokół działa na porcie 53?
+a) DNS
+b) DHCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: a
+
+Pytanie 97
+Który protokół działa na porcie 25?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: a
+
+Pytanie 98
+Który protokół działa na porcie 110?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 99
+Który protokół działa na porcie 143?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: c
+
+Pytanie 100
+Który protokół działa na porcie 5060?
+a) SIP
+b) SNMP
+c) DHCP
+d) DNS
+Poprawna odpowiedź: a
+
+Pytanie 101
+W jaki sposób można zwiększyć bezpieczeństwo komputera podłączonego do Internetu?
+a) Wyłączyć firewall
+b) Zainstalować program antywirusowy i włączyć firewall
+c) Wyłączyć aktualizacje systemu
+d) Usunąć przeglądarkę internetową
+Poprawna odpowiedź: b
+
+Pytanie 102
+Które zabezpieczenie WiFi jest najsłabsze?
+a) WPA2
+b) WPA
+c) WEP
+d) WPA3
+Poprawna odpowiedź: c
+
+Pytanie 103
+Które zabezpieczenie WiFi jest najmocniejsze?
+a) WPA2
+b) WPA
+c) WEP
+ manslaughter: a
+
+Pytanie 104
+Jakie polecenie w systemie Linux służy do archiwizacji danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: a
+
+Pytanie 105
+Jakie polecenie w systemie Windows pozwala sprawdzić ustawienia haseł?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: a
+
+Pytanie 106
+Który protokół jest używany do zdalnego logowania?
+a) FTP
+b) HTTP
+c) SSH
+d) SNMP
+Poprawna odpowiedź: c
+
+Pytanie 107
+Który protokół jest używany do zarządzania urządzeniami sieciowymi?
+a) FTP
+b) HTTP
+c) SNMP
+d) DHCP
+Poprawna odpowiedź: c
+
+Pytanie 108
+Który protokół jest używany do dynamicznego przydzielania adresów IP?
+a) DNS
+b) DHCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 109
+Które polecenie w systemie Linux służy do kopiowania danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: c
+
+Pytanie 110
+Które polecenie w systemie Windows służy do zarządzania skojarzeniami plików?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: b
+
+Pytanie 111
+Jakie porty są używane przez protokół FTP?
+a) 20 i 21
+b) 22 i 23
+c) 80 i 443
+d) 53 i 67
+Poprawna odpowiedź: a
+
+Pytanie 112
+W standardzie T568B skrętki, który kolor kabla jest pierwszy?
+a) Zielony
+b) Pomarańczowy
+c) Niebieski
+d) Brązowy
+Poprawna odpowiedź: b
+
+Pytanie 113
+Co to jest panel krosowy?
+a) Urządzenie do zarządzania ruchem sieciowym
+b) Panel do organizacji kabli i połączeń w szafie rack
+c) Karta sieciowa
+d) Konwerter mediów
+Poprawna odpowiedź: b
+
+Pytanie 114
+Do czego służy sieć wewnętrzna w VirtualBox?
+a) Umożliwia komunikację między maszynami wirtualnymi bez dostępu do Internetu
+b) Umożliwia dostęp do Internetu
+c) Służy do komunikacji z hostem
+d) Umożliwia zdalne logowanie
+Poprawna odpowiedź: a
+
+Pytanie 115
+Jakie narzędzie służy do wycinania izolacji kabli światłowodowych?
+a) Ściągacz izolacji
+b) Nożyczki
+c) Kombinerki
+d) Tester kabli
+Poprawna odpowiedź: a
+
+Pytanie 116
+Jaki jest symbol Access Point w dokumentacji sieciowej?
+a) Trójkąt z antenką
+b) Koło z krzyżykiem
+c) Kwadrat z liniami
+d) Prostokąt z portami
+Poprawna odpowiedź: a
+
+Pytanie 117
+Który program służy do mierzenia wydajności komputera?
+a) CrystalDiskMark
+b) Notepad
+c) Paint
+d) Calculator
+Poprawna odpowiedź: a
+
+Pytanie 118
+Co należy zainstalować na Windows Server, aby dwie karty sieciowe mogły się komunikować?
+a) Mostek sieciowy (Network Bridge)
+b) Firewall
+c) Program antywirusowy
+d) Przeglądarkę internetową
+Poprawna odpowiedź: a
+
+Pytanie 119
+Co to jest trollowanie w kontekście sieci?
+a) Tworzenie kopii zapasowych danych
+b) Zakłócanie komunikacji w sieci przez złośliwe działania
+c) Zdalne logowanie do serwera
+d) Konfiguracja routera
+Poprawna odpowiedź: b
+
+Pytanie 120
+Które urządzenie umożliwia komunikację komputerów w sieci bezprzewodowej?
+a) Switch
+b) Router
+c) Access Point
+d) Hub
+Poprawna odpowiedź: c
+
+Pytanie 121
+Jaką normę ISO/EN można powiązać z instalacją sieci?
+a) PL-EN 50174-1
+b) ISO 9001
+c) ISO 27001
+d) ISO 14001
+Poprawna odpowiedź: a
+
+Pytanie 122
+Jak zmienić nazwę użytkownika z Administrator na Superużytkownik w systemie Windows?
+a) Za pomocą polityki zabezpieczeń
+b) Za pomocą komendy assoc
+c) Za pomocą komendy ping
+d) Za pomocą komendy tar
+Poprawna odpowiedź: a
+
+Pytanie 123
+Jaką komendą w Linuxie można zarchiwizować dane?
+a) dd
+b) tar
+c) gzip
+d) apt-get
+Poprawna odpowiedź: b
+
+Pytanie 124
+Co umożliwia rutowanie między sieciami VLAN?
+a) Switch
+b) Router
+c) Hub
+d) Konwerter mediów
+Poprawna odpowiedź: b
+
+Pytanie 125
+W której warstwie modelu ISO/OSI działa przełącznik (switch)?
+a) Warstwa aplikacji
+b) Warstwa transportowa
+c) Warstwa łącza danych
+d) Warstwa fizyczna
+Poprawna odpowiedź: c
+
+Pytanie 126
+Który profil umożliwia przesyłanie danych użytkownika między różnymi stacjami roboczymi?
+a) Profil lokalny
+b) Profil mobilny (roamingowy)
+c) Profil tymczasowy
+d) Profil administratora
+Poprawna odpowiedź: b
+
+Pytanie 127
+Który element drukarki laserowej odpowiada za przenoszenie toneru na papier?
+a) Bęben
+b) Wałek transferowy
+c) Laser
+d) Grzałka
+Poprawna odpowiedź: b
+
+Pytanie 128
+Jaki router należy wybrać dla sieci z 48 portami i obsługą światłowodów?
+a) Router z 24 portami i bez obsługi światłowodów
+b) Router z 48 portami i obsługą światłowodów
+c) Switch z 48 portami
+d) Access Point
+Poprawna odpowiedź: b
+
+Pytanie 129
+Jak wyświetlić pomoc do komendy ping w systemie Windows?
+a) ping /?
+b) ping -h
+c) ping help
+d) ping /h
+Poprawna odpowiedź: a
+
+Pytanie 130
+Ile hostów można zaadresować w podsieci, jeśli liczba hostów wynosi 14?
+a) 12
+b) 14
+c) 16
+d) 18
+Poprawna odpowiedź: c
+
+Pytanie 131
+Jaka jest reprezentacja liczby 10 w systemie U2 (uzupełnienie do dwóch)?
+a) 1010
+b) 1110
+c) 00001010
+d) 11110110
+Poprawna odpowiedź: c
+
+Pytanie 132
+Gdzie w systemie Windows można zmienić wymagania dotyczące złożoności haseł?
+a) W polityce zabezpieczeń
+b) W ustawieniach sieciowych
+c) W panelu sterowania – sieć
+d) W edytorze rejestru
+Poprawna odpowiedź: a
+
+Pytanie 133
+Jakie narzędzie służy do mierzenia prądu stałego w obwodach?
+a) Multimetr
+b) Tester kabli
+c) Oscyloskop
+d) Woltomierz
+Poprawna odpowiedź: a
+
+Pytanie 134
+Który protokół warstwy aplikacji służy do przesyłania stron internetowych?
+a) HTTP
+b) FTP
+c) SMTP
+d) IMAP
+Poprawna odpowiedź: a
+
+Pytanie 135
+Na którym porcie działa protokół HTTP?
+a) 21
+b) 80
+c) 443
+d) 110
+Poprawna odpowiedź: b
+
+Pytanie 136
+Który protokół jest szyfrowaną wersją HTTP?
+a) HTTPS
+b) FTP
+c) SMTP
+d) POP3
+Poprawna odpowiedź: a
+
+Pytanie 137
+Na którym porcie działa protokół HTTPS?
+a) 80
+b) 443
+c) 21
+d) 53
+Poprawna odpowiedź: b
+
+Pytanie 138
+Który protokół służy do transferu plików i działa na portach 20 i 21?
+a) HTTP
+b) FTP
+c) SMTP
+d) DNS
+Poprawna odpowiedź: b
+
+Pytanie 139
+Na którym porcie działa protokół SMTP?
+a) 25
+b) 110
+c) 143
+d) 80
+Poprawna odpowiedź: a
+
+Pytanie 140
+Który protokół służy do odbierania poczty i działa na porcie 110?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 141
+Na którym porcie działa protokół IMAP?
+a) 110
+b) 143
+c) 25
+d) 80
+Poprawna odpowiedź: b
+
+Pytanie 142
+Który protokół tłumaczy nazwy domen na adresy IP i działa na porcie 53?
+a) DHCP
+b) DNS
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 143
+Na których portach działa protokół DHCP?
+a) 20 i 21
+b) 67 i 68
+c) 80 i 443
+d) 110 i 143
+Poprawna odpowiedź: b
+
+Pytanie 144
+Który protokół służy do bezpiecznego zdalnego logowania i działa na porcie 22?
+a) Telnet
+b) SSH
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 145
+Który protokół zdalnego logowania działa na porcie 23, ale jest nieszyfrowany?
+a) SSH
+b) Telnet
+c) FTP
+d) SNMP
+Poprawna odpowiedź: b
+
+Pytanie 146
+Który protokół jest używany w telefonii VoIP i działa na porcie 5060?
+a) SIP
+b) SNMP
+c) DHCP
+d) DNS
+Poprawna odpowiedź: a
+
+Pytanie 147
+Który protokół warstwy transportowej zapewnia niezawodne połączenie?
+a) UDP
+b) TCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 148
+Który protokół warstwy transportowej jest bezpołączeniowy i szybszy?
+a) TCP
+b) UDP
+c) FTP
+d) SNMP
+Poprawna odpowiedź: b
+
+Pytanie 149
+Czy komputer z kartą sieciową 100 Mb/s spełnia wymagania Windows Server 2016, który wymaga 1 Gb/s?
+a) Tak
+b) Nie
+c) Tylko w trybie bridge
+d) Tylko w trybie NAT
+Poprawna odpowiedź: b
+
+Pytanie 150
+Które z poniższych urządzeń jest niezbędne do routingu w sieci?
+a) Switch
+b) Hub
+c) Router
+d) Access Point
+Poprawna odpowiedź: c
+
+Pytanie 151
+Które polecenie w systemie Linux służy do kompresji plików?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: b
+
+Pytanie 152
+Które polecenie w systemie Linux służy do aktualizacji pakietów?
+a) tar
+b) apt-get
+c) gzip
+d) dd
+Poprawna odpowiedź: b
+
+Pytanie 153
+Które polecenie w systemie Linux służy do kopiowania danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: c
+
+Pytanie 154
+Które polecenie w systemie Windows służy do zarządzania skojarzeniami plików?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: b
+
+Pytanie 155
+Który protokół działa w warstwie aplikacji i służy do zarządzania urządzeniami sieciowymi?
+a) FTP
+b) HTTP
+c) SNMP
+d) DHCP
+Poprawna odpowiedź: c
+
+Pytanie 156
+Który protokół jest używany do dynamicznego przydzielania adresów IP?
+a) DNS
+b) DHCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 157
+Który protokół działa na porcie 22?
+a) FTP
+b) SSH
+c) Telnet
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 158
+Który protokół działa na porcie 23?
+a) FTP
+b) SSH
+c) Telnet
+d) HTTP
+Poprawna odpowiedź: c
+
+Pytanie 159
+Który protokół działa na porcie 5060?
+a) SIP
+b) SNMP
+c) DHCP
+d) DNS
+Poprawna odpowiedź: a
+
+Pytanie 160
+Który protokół działa na porcie 53?
+a) DNS
+b) DHCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: a
+
+Pytanie 161
+Który protokół działa na porcie 25?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: a
+
+Pytanie 162
+Który protokół działa na porcie 110?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 163
+Który protokół działa na porcie 143?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: c
+
+Pytanie 164
+Który protokół działa na porcie 80?
+a) HTTP
+b) HTTPS
+c) FTP
+d) SSH
+Poprawna odpowiedź: a
+
+Pytanie 165
+Który protokół działa na porcie 443?
+a) HTTP
+b) HTTPS
+c) FTP
+d) SSH
+Poprawna odpowiedź: b
+
+Pytanie 166
+Które polecenie w systemie Linux służy do archiwizacji danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: a
+
+Pytanie 167
+Które polecenie w systemie Windows pozwala sprawdzić ustawienia haseł?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: a
+
+Pytanie 168
+Który protokół jest używany do zdalnego logowania?
+a) FTP
+b) HTTP
+c) SSH
+d) SNMP
+Poprawna odpowiedź: c
+
+Pytanie 169
+Który protokół jest używany do zarządzania urządzeniami sieciowymi?
+a) FTP
+b) HTTP
+c) SNMP
+d) DHCP
+Poprawna odpowiedź: c
+
+Pytanie 170
+Który protokół jest używany do dynamicznego przydzielania adresów IP?
+a) DNS
+b) DHCP
+c) FTP
+d) HTTP
+Poprawna odpowiedź: b
+
+Pytanie 171
+Które polecenie w systemie Linux służy do kopiowania danych?
+a) tar
+b) gzip
+c) dd
+d) apt-get
+Poprawna odpowiedź: c
+
+Pytanie 172
+Które polecenie w systemie Windows służy do zarządzania skojarzeniami plików?
+a) net accounts
+b) assoc
+c) ping
+d) ipconfig
+Poprawna odpowiedź: b
+
+Pytanie 173
+Jakie porty są używane przez protokół FTP?
+a) 20 i 21
+b) 22 i 23
+c) 80 i 443
+d) 53 i 67
+Poprawna odpowiedź: a
+
+Pytanie 174
+W standardzie T568B skrętki, który kolor kabla jest pierwszy?
+a) Zielony
+b) Pomarańczowy
+c) Niebieski
+d) Brązowy
+Poprawna odpowiedź: b
+
+Pytanie 175
+Co to jest panel krosowy?
+a) Urządzenie do zarządzania ruchem sieciowym
+b) Panel do organizacji kabli i połączeń w szafie rack
+c) Karta sieciowa
+d) Konwerter mediów
+Poprawna odpowiedź: b
+
+Pytanie 176
+Do czego służy sieć wewnętrzna w VirtualBox?
+a) Umożliwia komunikację między maszynami wirtualnymi bez dostępu do Internetu
+b) Umożliwia dostęp do Internetu
+c) Służy do komunikacji z hostem
+d) Umożliwia zdalne logowanie
+Poprawna odpowiedź: a
+
+Pytanie 177
+Jakie narzędzie służy do wycinania izolacji kabli światłowodowych?
+a) Ściągacz izolacji
+b) Nożyczki
+c) Kombinerki
+d) Tester kabli
+Poprawna odpowiedź: a
+
+Pytanie 178
+Jaki jest symbol Access Point w dokumentacji sieciowej?
+a) Trójkąt z antenką
+b) Koło z krzyżykiem
+c) Kwadrat z liniami
+d) Prostokąt z portami
+Poprawna odpowiedź: a
+
+Pytanie 179
+Który program służy do mierzenia wydajności komputera?
+a) CrystalDiskMark
+b) Notepad
+c) Paint
+d) Calculator
+Poprawna odpowiedź: a
+
+Pytanie 180
+Co należy zainstalować na Windows Server, aby dwie karty sieciowe mogły się komunikować?
+a) Mostek sieciowy (Network Bridge)
+b) Firewall
+c) Program antywirusowy
+d) Przeglądarkę internetową
+Poprawna odpowiedź: a
+
+Pytanie 181
+Co to jest trollowanie w kontekście sieci?
+a) Tworzenie kopii zapasowych danych
+b) Zakłócanie komunikacji w sieci przez złośliwe działania
+c) Zdalne logowanie do serwera
+d) Konfiguracja routera
+Poprawna odpowiedź: b
+
+Pytanie 182
+Które urządzenie umożliwia komunikację komputerów w sieci bezprzewodowej?
+a) Switch
+b) Router
+c) Access Point
+d) Hub
+Poprawna odpowiedź: c
+
+Pytanie 183
+Jaką normę ISO/EN można powiązać z instalacją sieci?
+a) PL-EN 50174-1
+b) ISO 9001
+c) ISO 27001
+d) ISO 14001
+Poprawna odpowiedź: a
+
+Pytanie 184
+Jak zmienić nazwę użytkownika z Administrator na Superużytkownik w systemie Windows?
+a) Za pomocą polityki zabezpieczeń
+b) Za pomocą komendy assoc
+c) Za pomocą komendy ping
+d) Za pomocą komendy tar
+Poprawna odpowiedź: a
+
+Pytanie 185
+Jaką komendą w Linuxie można zarchiwizować dane?
+a) dd
+b) tar
+c) gzip
+d) apt-get
+Poprawna odpowiedź: b
+
+Pytanie 186
+Co umożliwia rutowanie między sieciami VLAN?
+a) Switch
+b) Router
+c) Hub
+d) Konwerter mediów
+Poprawna odpowiedź: b
+
+Pytanie 187
+W której warstwie modelu ISO/OSI działa przełącznik (switch)?
+a) Warstwa aplikacji
+b) Warstwa transportowa
+c) Warstwa łącza danych
+d) Warstwa fizyczna
+Poprawna odpowiedź: c
+
+Pytanie 188
+Który profil umożliwia przesyłanie danych użytkownika między różnymi stacjami roboczymi?
+a) Profil lokalny
+b) Profil mobilny (roamingowy)
+c) Profil tymczasowy
+d) Profil administratora
+Poprawna odpowiedź: b
+
+Pytanie 189
+Który element drukarki laserowej odpowiada za przenoszenie toneru na papier?
+a) Bęben
+b) Wałek transferowy
+c) Laser
+d) Grzałka
+Poprawna odpowiedź: b
+
+Pytanie 190
+Jaki router należy wybrać dla sieci z 48 portami i obsługą światłowodów?
+a) Router z 24 portami i bez obsługi światłowodów
+b) Router z 48 portami i obsługą światłowodów
+c) Switch z 48 portami
+d) Access Point
+Poprawna odpowiedź: b
+
+Pytanie 191
+Jak wyświetlić pomoc do komendy ping w systemie Windows?
+a) ping /?
+b) ping -h
+c) ping help
+d) ping /h
+Poprawna odpowiedź: a
+
+Pytanie 192
+Ile hostów można zaadresować w podsieci, jeśli liczba hostów wynosi 14?
+a) 12
+b) 14
+c) 16
+d) 18
+Poprawna odpowiedź: c
+
+Pytanie 193
+Jaka jest reprezentacja liczby 10 w systemie U2 (uzupełnienie do dwóch)?
+a) 1010
+b) 1110
+c) 00001010
+d) 11110110
+Poprawna odpowiedź: c
+
+Pytanie 194
+Gdzie w systemie Windows można zmienić wymagania dotyczące złożoności haseł?
+a) W polityce zabezpieczeń
+b) W ustawieniach sieciowych
+c) W panelu sterowania – sieć
+d) W edytorze rejestru
+Poprawna odpowiedź: a
+
+Pytanie 195
+Jakie narzędzie służy do mierzenia prądu stałego w obwodach?
+a) Multimetr
+b) Tester kabli
+c) Oscyloskop
+d) Woltomierz
+Poprawna odpowiedź: a
+
+Pytanie 196
+Który protokół warstwy aplikacji służy do przesyłania stron internetowych?
+a) HTTP
+b) FTP
+c) SMTP
+d) IMAP
+Poprawna odpowiedź: a
+
+Pytanie 197
+Na którym porcie działa protokół HTTP?
+a) 21
+b) 80
+c) 443
+d) 110
+Poprawna odpowiedź: b
+
+Pytanie 198
+Który protokół jest szyfrowaną wersją HTTP?
+a) HTTPS
+b) FTP
+c) SMTP
+d) POP3
+Poprawna odpowiedź: a
+
+Pytanie 199
+Na którym porcie działa protokół HTTPS?
+a) 80
+b) 443
+c) 21
+d) 53
+Poprawna odpowiedź: b
+
+Pytanie 200
+Który protokół służy do transferu plików i działa na portach 20 i 21?
+a) HTTP
+b) FTP
+c) SMTP
+d) DNS
+Poprawna odpowiedź: b
+
+Pytanie 1
+Wskaż adres rozgłoszeniowy sieci, do której należy host o adresie 172.16.0.123 z maską /18.
+a) 172.16.63.255
+b) 172.16.64.255
+c) 172.16.127.255
+d) 172.16.255.255
+Poprawna odpowiedź: c
+
+Pytanie 2
+Który program w systemie Linux służy do dodawania repozytorium pakietów w dystrybucji openSUSE?
+a) apt-get
+b) zypper ar
+c) yum
+d) dpkg
+Poprawna odpowiedź: b
+
+Pytanie 3
+Które polecenie w systemie Windows pozwala ustawić wymóg zmiany hasła użytkownika przy następnym logowaniu?
+a) net user /passwordchg:yes
+b) net accounts /forcelogoff
+c) net user /logonpasswordchg:yes
+d) net accounts /minpwlen
+Poprawna odpowiedź: c
+
+Pytanie 4
+Który protokół działa w warstwie aplikacji modelu ISO/OSI i umożliwia zarządzanie urządzeniami sieciowymi?
+a) ICMP
+b) SNMP
+c) TCP
+d) ARP
+Poprawna odpowiedź: b
+
+Pytanie 5
+Co należy zrobić, aby udostępnić w sieci folder C:\instrukcje wyłącznie użytkownikom należącym do grupy Serwisanci w systemie Windows?
+a) Ustawić uprawnienia NTFS dla grupy Serwisanci na pełny dostęp
+b) Skonfigurować zaporę sieciową dla folderu C:\instrukcje
+c) Utworzyć nowy udział sieciowy z uprawnieniami tylko dla administratorów
+d) Zmienić właściciela folderu na konto Serwisanci
+Poprawna odpowiedź: a
+
+Pytanie 6
+Które narzędzie w systemie Linux służy do tworzenia kopii obrazu dysku, np. poleceniem dd if=/dev/sda of=/home/uzytkownik/obraz.iso?
+a) tar
+b) gzip
+c) dd
+d) cp
+Poprawna odpowiedź: c
+
+Pytanie 7
+Który typ zabezpieczenia sieci WiFi oferuje najsłabszy poziom ochrony?
+a) WPA
+b) WPA2
+c) WEP
+d) WPA3
+Poprawna odpowiedź: c
+
+Pytanie 8
+Jaki jest wynik dodawania binarnego liczb 1001101 i 11001?
+a) 10110010
+b) 1100110
+c) 1110010
+d) 10011001
+Poprawna odpowiedź: b
+
+Pytanie 9
+Która usługa w systemie Windows Server odpowiada za wirtualizację?
+a) Active Directory
+b) Hyper-V
+c) IIS
+d) DHCP
+Poprawna odpowiedź: b
+
+Pytanie 10
+Które urządzenie jest typowym urządzeniem wejścia w komputerze?
+a) Drukarka
+b) Skaner
+c) Głośniki
+d) Projektor
+Poprawna odpowiedź: b
+
+Pytanie 11
+Jakie minimalne natężenie oświetlenia jest wymagane dla stanowiska pracy przy komputerze zgodnie z normami BHP?
+a) 200 luksów
+b) 300 luksów
+c) 500 luksów
+d) 1000 luksów
+Poprawna odpowiedź: c
+
+Pytanie 12
+Które polecenie w systemie Linux ustawia uprawnienia pliku na rwxr-xr-x?
+a) chmod 644
+b) chmod 755
+c) chmod 777
+d) chmod 664
+Poprawna odpowiedź: b
+
+Pytanie 13
+Który protokół pocztowy działa na porcie 143 w systemie Linux?
+a) SMTP
+b) POP3
+c) IMAP
+d) HTTP
+Poprawna odpowiedź: c
+
+Pytanie 14
+Co oznacza symbol ostrzegawczy z magnesem w żółtym trójkącie w kontekście BHP?
+a) Zagrożenie wysokim napięciem
+b) Pole elektromagnetyczne
+c) Ryzyko pożaru
+d) Substancje chemiczne
+Poprawna odpowiedź: b
+
+Pytanie 15
+Która antena charakteryzuje się największym zyskiem energetycznym i umożliwia zestawienie połączenia na dużą odległość?
+a) Dookólna
+b) Sektorowa
+c) Paraboliczna
+d) Panelowa
+Poprawna odpowiedź: c
+
+Pytanie 16
+Który program służy do odzyskiwania skasowanych plików w systemie Windows?
+a) Wireshark
+b) Recuva
+c) CommView
+d) PuTTY
+Poprawna odpowiedź: b
+
+Pytanie 17
+Które polecenie w systemie Windows wyświetla pomoc dla komendy ping?
+a) ping /?
+b) ping -h
+c) ping --help
+d) ping /info
+Poprawna odpowiedź: a
+
+Pytanie 18
+Co należy włączyć, aby zabezpieczyć konto w mediach społecznościowych przed nieautoryzowanym dostępem?
+a) Szyfrowanie end-to-end
+b) Uwierzytelnianie dwuskładnikowe
+c) Zmiana hasła na krótsze
+d) Wyłączenie powiadomień
+Poprawna odpowiedź: b
+
+Pytanie 19
+Które narzędzie w systemie Linux służy do kompresji danych?
+a) tar
+b) gzip
+c) dd
+d) ls
+Poprawna odpowiedź: b
+
+Pytanie 20
+Który standard wkrętu jest stosowany w urządzeniach elektronicznych, takich jak laptopy, i ma kształt gwiazdy?
+a) Phillips
+b) Tri-Wing
+c) Torx
+d) Pozidriv
+Poprawna odpowiedź: c
